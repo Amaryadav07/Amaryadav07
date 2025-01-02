@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amar Nath Yadav</h1>
 <h3 align="center">A passionate MERN Full Stack developer from India</h3> <br>
-<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif"
+<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" >
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaryadav07&label=Profile%20views&color=0e75b6&style=flat" alt="amaryadav07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaryadav07" alt="amaryadav07" /></a> </p>
+
 
 - 🌱 I’m currently learning **MERN Full Stack Development**
 
