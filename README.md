@@ -66,7 +66,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amaryadav07&show_icons=true&locale=en&layout=compact" alt="amaryadav07" class="github-stats" />
 </p>
-![amaryadav07](https://github-readme-streak-stats.herokuapp.com/?user=amaryadav07&)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaryadav07" alt="amaryadav07" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amaryadav07&show_icons=true&locale=en" alt="amaryadav07" class="github-stats" />
