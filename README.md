@@ -1,14 +1,3 @@
-
-<div id="vanta-container"></div>
-    import BIRDS from 'vanta/dist/vanta.birds.min' [5, 10, 11]
-
-
-
-    // Assuming you have a div with id "vanta-container"
-
-    let vantaEffect = BIRDS({ el: document.getElementById('vanta-container') })
-
-
 <h1 align="center">Hi 👋, I'm Amar Nath Yadav</h1>
 <h3 align="center">A passionate MERN Full Stack Developer from India</h3> 
 
@@ -73,26 +62,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amaryadav07&show_icons=true&locale=en&layout=compact" alt="amaryadav07" class="github-stats" />
 </p>
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amaryadav07&show_icons=true&locale=en" alt="amaryadav07" class="github-stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaryadav07" alt="amaryadav07" />
 </p>
-<script>https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js</script>
-<script>https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.birds.min.js</script>
-<script>
-VANTA.BIRDS({
-  el: "#abc",
-  mouseControls: true,
-  touchControls: true,
-  gyroControls: false,
-  minHeight: 200.00,
-  minWidth: 200.00,
-  scale: 1.00,
-  scaleMobile: 1.00
-})
-</script>
+
+---
 
