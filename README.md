@@ -1,5 +1,12 @@
 
-<div id="abc"></div>
+<div id="vanta-container"></div>
+    import BIRDS from 'vanta/dist/vanta.birds.min' [5, 10, 11]
+
+
+
+    // Assuming you have a div with id "vanta-container"
+
+    let vantaEffect = BIRDS({ el: document.getElementById('vanta-container') })
 
 
 <h1 align="center">Hi 👋, I'm Amar Nath Yadav</h1>
