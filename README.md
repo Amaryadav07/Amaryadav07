@@ -1,6 +1,5 @@
 
-
-
+<div id="abc"></div>
 
 
 <h1 align="center">Hi 👋, I'm Amar Nath Yadav</h1>
@@ -75,5 +74,18 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaryadav07" alt="amaryadav07" />
 </p>
-
+<script>https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js</script>
+<script>https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.birds.min.js</script>
+<script>
+VANTA.BIRDS({
+  el: "#abc",
+  mouseControls: true,
+  touchControls: true,
+  gyroControls: false,
+  minHeight: 200.00,
+  minWidth: 200.00,
+  scale: 1.00,
+  scaleMobile: 1.00
+})
+</script>
 
