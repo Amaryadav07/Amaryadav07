@@ -10,7 +10,7 @@
 </p>
 
 - 🌱 I’m currently learning **MERN Full Stack Development**
-- 💬 Ask me about **C++, HTML, CSS, JavaScript**
+- 💬 Ask me about **C++, HTML, CSS, Java-Script**
 - 📫 How to reach me: **amarnath2893@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
